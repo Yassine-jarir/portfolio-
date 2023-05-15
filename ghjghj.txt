@@ -1,0 +1,12 @@
+cameras - lighting - geometry 
+
+-three.js = javascript library for creating 3D graphics in web browsers
+-react three fiber = react library for creating graphics in web browsers using
+three.js
+-tailwind 
+- framer motion = most library for animation in react 
+- @react-three-drei = يعتبر "@react-three-drei" حزمة شائعة ومفيدة لأولئك الذين يرغبون في إنشاء تطبيقات ويب 3D باستخدام React و Three.js ، ويوفر واجهة برمجية سهلة الاستخدام ومستندات وافية للمساعدة في البدء.
+- react-tilt = "react-tilt" يعتبر مكونًا شائعًا وسهل الاستخدام في تصميمات React ، ويمكن استخدامه لإضافة لمسة إبداعية إلى تصميمات الواجهة الأمامية. يتم تحديث المشروع بانتظام ويحتوي على مستندات ومثال لاستخدامه في التطبيقات.
+- "@emailjs/browser" هي حزمة شائعة وموثوقة في إرسال رسائل البريد الإلكتروني من المتصفح ، ويمكن استخدامها في تطبيقات الويب المختلفة التي تحتاج إلى إرسال رسائل بريد إلكتروني.
+
+
