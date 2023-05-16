@@ -8,7 +8,7 @@ import { styles } from "../styles";
 import { experiences } from "../constants";
 import { SectionWrapper } from "../HOC";
 import { textVariant } from "../utils/motion";
-//s
+// test
 const ExperienceCard = ({ experience }) => {
   return (
     <VerticalTimelineElement
