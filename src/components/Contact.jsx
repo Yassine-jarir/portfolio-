@@ -5,13 +5,6 @@ import { styles } from "../styles";
 import { EarthCanvas } from "./canvas";
 import { SectionWrapper } from "../HOC";
 import { slideIn } from "../utils/motion";
-// firt test
-// second test
-// third test
-// firth test
-
-// first in testing branch
-// git graph
 
 const Contact = () => {
   const formRef = useRef();
